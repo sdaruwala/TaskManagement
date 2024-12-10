@@ -50,6 +50,17 @@ TaskManagement is a Blazor Server application that provides a user-friendly inte
 ![image](https://github.com/user-attachments/assets/8b64ad10-5125-46e8-8b8d-4a3ce9aa0dc9)
 
 
+# User view
+![image](https://github.com/user-attachments/assets/d4ba9476-a2d5-4804-82cb-4a479d4fdee6)
+
+
+# API view
+
+![image](https://github.com/user-attachments/assets/4fec9302-017a-45ee-a9b1-f7318888cdb6)
+
+
+
+
 
  # License
 This project is licensed under the MIT License - see the LICENSE file for details.
