@@ -44,7 +44,11 @@ TaskManagement is a Blazor Server application that provides a user-friendly inte
     # Description: This project is a Blazor Server application providing a user interface for managing tasks. It consumes the API to display, edit, and delete tasks.
 
 
-   
+ # Startup project  : TaskManagement.Apphost
+   When run click on as per below screen snap
+
+![image](https://github.com/user-attachments/assets/8b64ad10-5125-46e8-8b8d-4a3ce9aa0dc9)
+
 
 
  # License
